@@ -1,0 +1,2 @@
+# moduabit
+moduabit coin
